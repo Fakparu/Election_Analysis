@@ -42,9 +42,9 @@ Screen shot of the election result
 ![image](https://user-images.githubusercontent.com/105121697/171665234-cc879d36-bb92-489f-bfca-71745fc15f71.png)
  
 Election Audit Summary:
-•	Customizing script is worth investing in as it can provide on-demand analysis in future.
+•	Customizing script is worth investing in as it can provide on-demand analysis in future. The code developed for this analysis is efficient to analyze large scale data sets. The code is customized and can be run to analyze data with just a little improvement or change. 
 •	Scripts used for only state counties can be used to change other states and county.
-•	The script used for Election Audit would be very valuable to the election board.
+•	The script used for this Election Audit would be very valuable to the election board.
 •	This audit can help in future elections. Some of the data provided could be guide in planning the future elections such as understanding the demographic of a county and cities and plan with the number of voters in terms of resources. Customizing the script can help with analysis in the future.
 •	The script was modified so the county’s turnout results was produced, that is a way of establishing an important data. For example, the percentages of each county that voted could also be determined by adding if statements to the code. Decision statement runs calculations when data files are provided and that was available. The percentage voters in a county can be determined this way.
 
