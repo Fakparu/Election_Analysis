@@ -10,8 +10,8 @@ A colado Board od Election employee has you the following task to complete elect
 •	The winner of the election based on popular vote
 
 Resources
-1. Data Source:
-2. Software:
+1. Data Source: election_result.csv
+2. Software:Python 3.9.5, Visual Code 1.67.2
 
 Election-Audit Summary
 The analysis of the election indicates
