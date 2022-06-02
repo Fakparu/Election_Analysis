@@ -11,7 +11,7 @@ A colado Board od Election employee has you the following task to complete elect
 
 Resources
 1. Data Source: election_result.csv
-2. Software:Python 3.9.5, Visual Code 1.67.2
+2. Software:Python 3.9.5, Visual Code, 1.67.2
 
 Election-Audit Summary
 The analysis of the election indicates
@@ -48,6 +48,8 @@ Election Audit Summary:
 •	This audit can help in future elections. Some of the data provided could be guide in planning the future elections such as understanding the demographic of a county and cities and plan with the number of voters in terms of resources. Customizing the script can help with analysis in the future.
 •	The script was modified so the county’s turnout results was produced, that is a way of establishing an important data. For example, the percentages of each county that voted could also be determined by adding if statements to the code. Decision statement runs calculations when data files are provided and that was available. The percentage voters in a county can be determined this way.
 
+Election Result Analysis
+![image](https://user-images.githubusercontent.com/105121697/171676802-73dc1675-f22e-46ea-8cc0-8ba7e9b5ba86.png)
 
 
 
